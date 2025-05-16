@@ -175,9 +175,3 @@ IAM user policy to upload, download and list bucket items:
 ## LLM for viral moment identification
 
 [Create an API key for Gemini](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
-
-# Videos used for testing / thumbnail
-
-[MI6 Secret Agent Talks About the World's Darkest Secrets](https://www.youtube.com/watch?v=-vMgbJ6WqN4)
-
-[Janney Sanchez | Therapy saved my life, From Rivera to Sanchez , Living in my Moms Shadow | Ep.198](https://www.youtube.com/watch?v=SOG0GmKts_I)
