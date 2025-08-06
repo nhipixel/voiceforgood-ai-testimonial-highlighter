@@ -174,4 +174,4 @@ IAM user policy to upload, download and list bucket items:
 
 ## LLM for viral moment identification
 
-[Create an API key for Gemini](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
+[Create an API key for Gemini 2.5](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
