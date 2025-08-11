@@ -4,8 +4,8 @@ Hello friend! (＾▽＾)
 
 **VoiceForGood** is a storytelling tool built to serve nonprofits, educators, activists, and community-led projects. It transforms long-form interviews and real stories into impactful, ready-to-share video clips (TikToks, Youtube Shorts, or Reels) — **without the cost or complexity of traditional editing tools**. I understand that nonprofits and grassroots organizations often don't have time, budgets, or staff to produce polished content, but their voices deserve to be heard. Hence, VoiceForGood exists to amplify real stories from the field, classrooms, community centers, and campaign trails — using powerful AI tools that are fast, affordable, and accessible, making it easy to build a strong social presence, grow awareness, and drive meaningful impact.
 
-[![Watch the demo](https://i.imgur.com/g8dlVoO.png)]([https://youtu.be/JrO3B9YWxgI](https://youtu.be/JrO3B9YWxgI))
-[![Watch the demo](https://i.imgur.com/E2JxUIJ.png)]([https://youtu.be/JrO3B9YWxgI](https://youtu.be/JrO3B9YWxgI))
+[![Watch the demo](https://i.imgur.com/g8dlVoO.png)](https://youtu.be/JrO3B9YWxgI)
+[![Watch the demo](https://i.imgur.com/E2JxUIJ.png)](https://youtu.be/JrO3B9YWxgI)
 
 ---
 
